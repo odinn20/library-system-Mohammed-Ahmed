@@ -1,0 +1,7 @@
+[theme]
+base = "dark"
+primaryColor = "#d4a64a"             # brass gold for buttons and active widgets
+backgroundColor = "#1b2b23"          # deep library green
+secondaryBackgroundColor = "#2a3d33" # lighter green for widgets and tables
+textColor = "#f1e8d4"                # parchment
+font = "serif"

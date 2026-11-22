@@ -1,0 +1,11 @@
+ISNB,title,author,Genre,Status,date taken,return date
+1,data,data,Fiction,True,20/11/2026,04/12/2026
+2,late book,odin,Fiction,False,13/10/2026,
+3,gch,,Fiction,False,20/11/2026,04/12/2026
+4,,,Fiction,False,22/11/2026,06/12/2026
+5,,,Fiction,False,22/11/2026,06/12/2026
+6,dfz,tyxh,Fiction,True,07/10/2026,
+7,data science,jamila,Science,False,22/11/2026,06/12/2026
+8,session test,odin,Fiction,False,,
+9,gaming keyboard,,Fiction,True,,
+10,data science,jamila,Fiction,True,,
